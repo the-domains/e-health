@@ -1,0 +1,28 @@
+name: E-Health
+favicon: null
+layout_spectrum: 0.5052517445292324
+typography_spectrum: 0.7691758817527443
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.18465842702426016
+  lightness: 0.38992773508653045
+  saturation: 0.3642232802230865
+  rhythmicContrast: 0.8502862204331905
+purpose: []
