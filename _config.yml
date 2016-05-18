@@ -1,7 +1,7 @@
 name: E-Health
 favicon: null
 layout_spectrum: 0.26946
-typography_spectrum: 0.07655
+typography_spectrum: 1
 cta:
   domain: null
   bucket: null
