@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[E-Health]]></title>
         <description><![CDATA[E-Health]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/e-health/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 18 May 2016 16:23:06 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 18 May 2016 16:23:47 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/e-health/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>“The question of whether a computer can think is no more interesting than the question of whether a submarine can swim.”</p>]]></description>
+            <link>https://thegrid.ai/e-health/the-question-of-whether-a-computer-can-think-is-no-more-int/index.html</link>
+            <guid isPermaLink="false">2921969c-6ce0-4a8e-b917-47ccc63adcf7</guid>
+            <pubDate>Wed, 18 May 2016 16:23:46 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>What is the opposite of a Turing Test?</p>]]></description>
-            <link>undefinedwhat-is-the-opposite-of-a-turing-test/index.html</link>
+            <link>https://thegrid.ai/e-health/what-is-the-opposite-of-a-turing-test/index.html</link>
             <guid isPermaLink="false">dfe360b5-7683-4a90-a11b-8db0c79fb2f3</guid>
             <pubDate>Wed, 18 May 2016 16:23:05 GMT</pubDate>
         </item>
