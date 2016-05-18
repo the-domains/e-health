@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[E-Health]]></title>
         <description><![CDATA[E-Health]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/e-health/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 18 May 2016 15:55:59 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 18 May 2016 15:59:38 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/e-health/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>“The question of whether a computer can think is no more interesting than the question of whether a submarine can swim.</p>]]></description>
-            <link>undefinedthe-question-of-whether-a-computer-can-think-is-no-more-int/index.html</link>
+            <link>https://thegrid.ai/e-health/the-question-of-whether-a-computer-can-think-is-no-more-int/index.html</link>
             <guid isPermaLink="false">71c3964b-404a-463f-92b8-7e05639a65b6</guid>
-            <pubDate>Wed, 18 May 2016 15:55:52 GMT</pubDate>
+            <pubDate>Wed, 18 May 2016 15:59:38 GMT</pubDate>
         </item>
     </channel>
 </rss>
