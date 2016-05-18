@@ -1,7 +1,7 @@
 name: E-Health
 favicon: null
-layout_spectrum: 0.5052517445292324
-typography_spectrum: 0.7691758817527443
+layout_spectrum: 0.26946
+typography_spectrum: 0.07655
 cta:
   domain: null
   bucket: null
@@ -21,8 +21,8 @@ color:
     - '#F4AFAB'
     - '#F4EEA9'
     - '#F4F482'
-  brandStrength: 0.18465842702426016
-  lightness: 0.38992773508653045
-  saturation: 0.3642232802230865
-  rhythmicContrast: 0.8502862204331905
+  brandStrength: 0.5
+  lightness: 0
+  saturation: 0.25
+  rhythmicContrast: 1
 purpose: []
