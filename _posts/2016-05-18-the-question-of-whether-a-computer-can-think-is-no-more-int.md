@@ -5,14 +5,14 @@ inNav: false
 inLanguage: null
 keywords: []
 description: “The question of whether a computer can think is no more interesting than the question of whether a submarine can swim.
-datePublished: '2016-05-18T15:55:52.981Z'
-dateModified: '2016-05-18T15:55:46.358Z'
+datePublished: '2016-05-18T15:59:38.091Z'
+dateModified: '2016-05-18T15:56:00.764Z'
 title: ''
 author: []
+sourcePath: _posts/2016-05-18-the-question-of-whether-a-computer-can-think-is-no-more-int.md
 authors: []
 publisher: null
 starred: false
-sourcePath: _posts/2016-05-18-the-question-of-whether-a-computer-can-think-is-no-more-int.md
 url: the-question-of-whether-a-computer-can-think-is-no-more-int/index.html
 _type: Article
 
